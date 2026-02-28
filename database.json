@@ -1,15 +1,1 @@
-[
-  {
-    "id": 1771716060003,
-    "name": "e",
-    "price": "23",
-    "upc": "rewefse",
-    "loc": "3eewsd",
-    "desc": "e",
-    "images": [
-      "https://raw.githubusercontent.com/teamunicorndog-rgb/aamediastorage/main/media/133768610345904829.jpg",
-      "https://raw.githubusercontent.com/teamunicorndog-rgb/aamediastorage/main/media/code.JPG"
-    ],
-    "video": null
-  }
-]
+[{"id":1771716060003,"name":"e","price":"23","upc":"rewefse","loc":"3eewsd","desc":"e","images":["https://raw.githubusercontent.com/teamunicorndog-rgb/aamediastorage/main/media/133768610345904829.jpg","https://raw.githubusercontent.com/teamunicorndog-rgb/aamediastorage/main/media/code.JPG"],"video":null}]
